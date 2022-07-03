@@ -1,0 +1,1 @@
+{"name":"Local: DETSCORE","url":"d:\\VS CODE\\CompetitveProgramming\\CC\\JUNE LUNCHTIME 2022\\DETSCORE.cpp","tests":[{"id":1655650773343,"input":"4\n10 3\n100 10\n130 4\n70 0\n","output":"3\n100\n52\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS CODE\\CompetitveProgramming\\CC\\JUNE LUNCHTIME 2022\\DETSCORE.cpp","group":"local","local":true}

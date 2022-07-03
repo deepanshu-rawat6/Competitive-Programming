@@ -1,0 +1,1 @@
+{"name":"Local: CHAIRS_","url":"d:\\VS CODE\\CompetitveProgramming\\CC\\JUNE LONG 1 2022\\CHAIRS_.cpp","tests":[{"id":1654873513295,"input":"4\n20 14\n41 41\n35 0\n50 100","output":"6\n0\n35\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS CODE\\CompetitveProgramming\\CC\\JUNE LONG 1 2022\\CHAIRS_.cpp","group":"local","local":true}

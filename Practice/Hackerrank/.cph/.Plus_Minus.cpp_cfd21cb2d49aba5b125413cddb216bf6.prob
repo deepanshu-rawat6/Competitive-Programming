@@ -1,0 +1,1 @@
+{"name":"Local: Plus_Minus","url":"d:\\VS CODE\\CompetitveProgramming\\Practice\\Hackerrank\\Plus_Minus.cpp","tests":[{"id":1654582002328,"input":"6\n-4 3 -9 0 4 1","output":"0.500000\n0.333333\n0.166667"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS CODE\\CompetitveProgramming\\Practice\\Hackerrank\\Plus_Minus.cpp","group":"local","local":true}
