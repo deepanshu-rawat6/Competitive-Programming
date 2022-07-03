@@ -1,0 +1,1 @@
+{"name":"Local: hashing","url":"d:\\VS CODE\\CompetitveProgramming\\Hashing\\hashing.cpp","tests":[{"id":1653722557506,"input":"6\n3 5 5 7 7 8\n5\n3\n7\n5\n8\n9","output":"1\n2\n2\n1\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS CODE\\CompetitveProgramming\\Hashing\\hashing.cpp","group":"local","local":true}

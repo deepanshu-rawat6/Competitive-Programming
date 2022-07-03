@@ -1,0 +1,1 @@
+{"name":"Local: SUBSCRIBE_","url":"d:\\VS CODE\\CompetitveProgramming\\CC\\JUNE LONG 1 2022\\SUBSCRIBE_.cpp","tests":[{"id":1654956475753,"input":"3\n1 100\n12 250\n16 135\n","output":"100\n500\n405\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS CODE\\CompetitveProgramming\\CC\\JUNE LONG 1 2022\\SUBSCRIBE_.cpp","group":"local","local":true}

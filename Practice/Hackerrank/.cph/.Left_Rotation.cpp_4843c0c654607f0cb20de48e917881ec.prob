@@ -1,0 +1,1 @@
+{"name":"Local: Left_Rotation","url":"d:\\VS CODE\\CompetitveProgramming\\Practice\\Hackerrank\\Left_Rotation.cpp","tests":[{"id":1655029521762,"input":"5 4\n1 2 3 4 5","output":"5 1 2 3 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS CODE\\CompetitveProgramming\\Practice\\Hackerrank\\Left_Rotation.cpp","group":"local","local":true}

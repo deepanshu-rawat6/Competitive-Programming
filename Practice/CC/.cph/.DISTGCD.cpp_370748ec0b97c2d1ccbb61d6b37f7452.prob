@@ -1,0 +1,1 @@
+{"name":"Local: DISTGCD","url":"d:\\VS CODE\\CompetitveProgramming\\Practice\\CC\\DISTGCD.cpp","tests":[{"id":1655277419257,"input":"2\n1 2\n12 8","output":"1\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS CODE\\CompetitveProgramming\\Practice\\CC\\DISTGCD.cpp","group":"local","local":true}

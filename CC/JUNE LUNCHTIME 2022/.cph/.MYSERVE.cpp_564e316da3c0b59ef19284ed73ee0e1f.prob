@@ -1,0 +1,1 @@
+{"name":"Local: MYSERVE","url":"d:\\VS CODE\\CompetitveProgramming\\CC\\JUNE LUNCHTIME 2022\\MYSERVE.cpp","tests":[{"id":1655650862791,"input":"4\n0 0\n0 2\n2 2\n4 7\n","output":"Alice\nBob\nAlice\nBob\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS CODE\\CompetitveProgramming\\CC\\JUNE LUNCHTIME 2022\\MYSERVE.cpp","group":"local","local":true}

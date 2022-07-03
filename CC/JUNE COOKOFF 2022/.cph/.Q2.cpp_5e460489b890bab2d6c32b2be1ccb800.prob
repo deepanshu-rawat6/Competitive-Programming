@@ -1,0 +1,1 @@
+{"name":"Local: Q2","url":"d:\\VS CODE\\CompetitveProgramming\\CC\\JUNE COOKOFF 2022\\Q2.cpp","tests":[{"id":1654439687439,"input":"5\n6 1\n5 1\n11 2\n5 8\n100 9","output":"2\n1\n1\n0\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS CODE\\CompetitveProgramming\\CC\\JUNE COOKOFF 2022\\Q2.cpp","group":"local","local":true}

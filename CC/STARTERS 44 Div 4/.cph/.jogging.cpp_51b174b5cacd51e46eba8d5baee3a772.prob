@@ -1,0 +1,1 @@
+{"name":"Local: jogging","url":"d:\\VS CODE\\CompetitveProgramming\\CC\\STARTERS 44 Div 4\\jogging.cpp","tests":[{"id":1655920982786,"input":"3\n1 2\n2 1\n12548 1","output":"2\n2\n588809226"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS CODE\\CompetitveProgramming\\CC\\STARTERS 44 Div 4\\jogging.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Increasing_Array","url":"d:\\VS CODE\\CompetitveProgramming\\CSES\\Increasing_Array.cpp","tests":[{"id":1655380121464,"input":"5\n3 2 5 1 7","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS CODE\\CompetitveProgramming\\CSES\\Increasing_Array.cpp","group":"local","local":true}
