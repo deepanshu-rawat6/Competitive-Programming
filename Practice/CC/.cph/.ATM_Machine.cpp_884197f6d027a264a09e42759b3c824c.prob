@@ -1,0 +1,1 @@
+{"name":"Local: ATM_Machine","url":"d:\\Coding\\VS CODE\\CP\\Practice\\CC\\ATM_Machine.cpp","tests":[{"id":1656945674195,"input":"2\n5 10\n3 5 3 2 1\n4 6\n10 8 6 4","output":"11010\n0010"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\VS CODE\\CP\\Practice\\CC\\ATM_Machine.cpp","group":"local","local":true}
