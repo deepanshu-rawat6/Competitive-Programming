@@ -1,0 +1,1 @@
+{"name":"Local: AUCTION","url":"d:\\Coding\\VS CODE\\CP\\CC\\JULY LONG 1 2022\\AUCTION.cpp","tests":[{"id":1657275443574,"input":"4\n200 100 400\n155 1000 566\n736 234 470\n124 67 2","output":"Charlie\nBob\nAlice\nAlice"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\VS CODE\\CP\\CC\\JULY LONG 1 2022\\AUCTION.cpp","group":"local","local":true}
