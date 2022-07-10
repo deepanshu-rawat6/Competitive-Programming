@@ -1,0 +1,1 @@
+{"name":"Local: CHEFCAND","url":"d:\\Coding\\VS CODE\\CP\\CC\\JULY LONG 1 2022\\CHEFCAND.cpp","tests":[{"id":1657275690917,"input":"4\n20 12\n10 100\n10 9\n20 9\n","output":"2\n0\n1\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\VS CODE\\CP\\CC\\JULY LONG 1 2022\\CHEFCAND.cpp","group":"local","local":true}
