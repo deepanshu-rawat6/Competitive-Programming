@@ -5,7 +5,6 @@ using namespace std;
 #define pp pop_back
 #define Vec vector<long long int>
 const long long int MOD = 1e9+7;
-ll arr[10];
 // Prime function with O(N^(1/2)) approach
 bool prime(int n){
     int i=2;
@@ -39,22 +38,23 @@ vector<ll> printDivisors(ll n)
     return v; // returns the second largest element in the vector
 }
 void solve(){
-    ll x;
-    ll ans=0;
-    cin>>x;
-    for(auto i:arr){
-        if(i<=x){
-            ans=i;
+    string str;
+    cin>>str;
+    int m=1;
+    vector<char>v;
+    for(auto i:str){
+        vector<char>::iterator itr=find(v.begin(),v.end(),i);
+        if(itr!=v.end()) continue;
+        if(v.size()==3){
+            v.clear();
+            m++;
         }
+        v.push_back(i);
     }
-    cout<<x-ans<<"\n";
+    cout<<m<<"\n";
 }
 int main()
 {
-    arr[0]=1;
-    for(int i=1;i<10;i++){
-        arr[i]=arr[i-1]*10;
-    }
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     int t;
