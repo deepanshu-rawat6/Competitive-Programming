@@ -40,20 +40,27 @@ vector<ll> printDivisors(ll n)
 void solve(){
     int n;
     cin>>n;
-    vector<string>ans;
+    vector<string>v(n);
+    set<string>str;
     for(int i=0;i<n;i++){
-        string x;
-        cin>>x;
-        ans.pb(x);
+        cin>>v[i];
+        str.insert(v[i]);
     }
+    string ans;
     for(int i=0;i<n;i++){
-        string str=ans[i];
-        string test;
-        test.pb(str[0]);
-        for(int j=0;j<str.size();j++){
-            
+        bool test=false;
+        for(int j=0;j<v[i].size();j++){
+            if(str.count(v[i].substr(0,j))==1 && str.count(v[i].substr(j))==1){
+                test=true;
+            }
+        }
+        if(test){
+            ans.pb('1');
+        }else{
+            ans.pb('0');
         }
     }
+    cout<<ans<<"\n";
 }
 int main()
 {
