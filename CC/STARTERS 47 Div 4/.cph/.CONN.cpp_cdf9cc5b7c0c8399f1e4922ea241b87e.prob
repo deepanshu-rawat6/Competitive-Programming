@@ -1,0 +1,1 @@
+{"name":"Local: CONN","url":"d:\\Coding\\VS CODE\\CP\\CC\\STARTERS 47 Div 4\\CONN.cpp","tests":[{"id":1657723042883,"input":"5\n2\n5\n7\n11\n50","output":"YES\nNO\nYES\nYES\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\VS CODE\\CP\\CC\\STARTERS 47 Div 4\\CONN.cpp","group":"local","local":true}
