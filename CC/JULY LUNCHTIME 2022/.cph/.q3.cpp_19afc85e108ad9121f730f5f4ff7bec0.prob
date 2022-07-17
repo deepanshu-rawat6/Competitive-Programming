@@ -1,0 +1,1 @@
+{"name":"Local: q3","url":"d:\\Coding\\VS CODE\\CP\\CC\\JULY LUNCHTIME 2022\\q3.cpp","tests":[{"id":1658068147828,"input":"4\n2 12 10\n3 12 10\n7 20 8\n24 45 15","output":"24\n36\n156\n1185"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\VS CODE\\CP\\CC\\JULY LUNCHTIME 2022\\q3.cpp","group":"local","local":true}
