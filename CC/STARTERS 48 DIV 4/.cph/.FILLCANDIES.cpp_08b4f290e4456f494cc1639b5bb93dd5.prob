@@ -1,0 +1,1 @@
+{"name":"Local: FILLCANDIES","url":"d:\\Github\\CP\\CC\\STARTERS 48 DIV 4\\FILLCANDIES.cpp","tests":[{"id":1658327568681,"input":"4\n6 2 3\n3 1 2\n8 4 1\n25 4 2\n","output":"1\n2\n2\n4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Github\\CP\\CC\\STARTERS 48 DIV 4\\FILLCANDIES.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: GRIDBL","url":"d:\\Github\\CP\\CC\\STARTERS 48 DIV 4\\GRIDBL.cpp","tests":[{"id":1658328560817,"input":"4\n1 1\n4 5\n6 8\n3 2","output":"1\n4\n0\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Github\\CP\\CC\\STARTERS 48 DIV 4\\GRIDBL.cpp","group":"local","local":true}

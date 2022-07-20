@@ -1,0 +1,1 @@
+{"name":"Local: MAKEPAL2","url":"d:\\Github\\CP\\CC\\STARTERS 48 DIV 4\\MAKEPAL2.cpp","tests":[{"id":1658328423762,"input":"4\n3\n101\n3\n001\n4\n1011\n6\n010011","output":"101\n00\n111\n1001"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Github\\CP\\CC\\STARTERS 48 DIV 4\\MAKEPAL2.cpp","group":"local","local":true}
