@@ -1,0 +1,1 @@
+{"name":"Local: ON_OFF","url":"d:\\Github\\Competitive-Programming\\CC\\STARTERS 49 Div 4\\ON_OFF.cpp","tests":[{"id":1658933376856,"input":"2\n3\n000\n001\n2\n00\n11\n","output":"0\n1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Github\\Competitive-Programming\\CC\\STARTERS 49 Div 4\\ON_OFF.cpp","group":"local","local":true}
