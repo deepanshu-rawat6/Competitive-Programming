@@ -1,0 +1,1 @@
+{"name":"Local: NEARESTCOURT","url":"d:\\Github\\Competitive-Programming\\CC\\STARTERS 50 Div 4\\NEARESTCOURT.cpp","tests":[{"id":1659538029294,"input":"4\n3 5\n7 6\n1 10\n63 31","output":"1\n1\n5\n16"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Github\\Competitive-Programming\\CC\\STARTERS 50 Div 4\\NEARESTCOURT.cpp","group":"local","local":true}

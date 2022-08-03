@@ -1,0 +1,1 @@
+{"name":"Local: PERMGCD","url":"d:\\Github\\Competitive-Programming\\CC\\STARTERS 50 Div 4\\PERMGCD.cpp","tests":[{"id":1659540391418,"input":"4\n1 1\n2 1\n4 6\n3 5\n","output":"1\n-1\n2 4 3 1\n3 2 1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Github\\Competitive-Programming\\CC\\STARTERS 50 Div 4\\PERMGCD.cpp","group":"local","local":true}
