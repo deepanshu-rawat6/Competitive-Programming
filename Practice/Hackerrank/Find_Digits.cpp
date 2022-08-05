@@ -37,37 +37,15 @@ vector<ll> printDivisors(ll n)
     }
     return v; // returns the second largest element in the vector
 }
-int GCD(int a,int b){
-    if(a==0) return b;
-    return GCD(b%a,a);
-}
-int LCM(int a,int b){
-    return a*b/GCD(a,b);
-}
 void solve(){
-    int n,m;
-    cin>>n>>m;
-    vector<int> v2(m);
-    int temp=1;
+    ll n;
+    cin>>n;
+    ll temp=n;
     int c=0;
-    for(int i=0;i<n;i++){
-        int x;
-        cin>>x;
-        temp=LCM(temp,x);
-    }
-    for(int i=0;i<m;i++){
-        cin>>v2[i];
-    }
-    while(temp<=v2[0]){
-        bool val=true;
-        for(int i:v2){
-            if(i%temp==0){
-                val=false;
-                break;
-            }
-        }
-        if(val) c++;
-        temp+=temp;
+    while(temp!=0){
+        int r=temp%10;
+        if(r!=0 && n%r==0) c++;
+        temp/=10;
     }
     cout<<c<<"\n";
 }
@@ -75,10 +53,10 @@ int main()
 {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
-    // int t;
-    // cin>>t;
-    // while(t--){
+    int t;
+    cin>>t;
+    while(t--){
         solve();
-    // }
+    }
     return 0;
 }

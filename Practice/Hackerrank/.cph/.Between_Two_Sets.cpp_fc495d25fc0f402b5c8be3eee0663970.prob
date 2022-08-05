@@ -1,0 +1,1 @@
+{"name":"Local: Between_Two_Sets","url":"d:\\Github\\Competitive-Programming\\Practice\\Hackerrank\\Between_Two_Sets.cpp","tests":[{"id":1659724018837,"input":"2 3\n2 4\n16 32 96","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Github\\Competitive-Programming\\Practice\\Hackerrank\\Between_Two_Sets.cpp","group":"local","local":true}
