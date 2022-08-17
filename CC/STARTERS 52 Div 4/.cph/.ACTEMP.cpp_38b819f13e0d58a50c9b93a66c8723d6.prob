@@ -1,0 +1,1 @@
+{"name":"Local: ACTEMP","url":"d:\\Github\\Competitive-Programming\\CC\\STARTERS 52 Div 4\\ACTEMP.cpp","tests":[{"id":1660747120672,"input":"4\n30 35 25\n30 35 40\n30 35 35\n30 25 35","output":"Yes\nNo\nYes\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Github\\Competitive-Programming\\CC\\STARTERS 52 Div 4\\ACTEMP.cpp","group":"local","local":true}
