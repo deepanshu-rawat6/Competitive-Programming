@@ -42,19 +42,17 @@ int gcd(int a,int b){
     return gcd(b%a,a);
 }
 void solve(){
-    int n;
+    ll n;
     cin>>n;
     vector<ll>v(n);
-    for(int i=0;i<n;i++){
+    for(ll i=0;i<n;i++){
         cin>>v[i];
     }
-    sort(v.begin(),v.end());
-    int a=v[0];
-    for(int i=1;i<n;i++){
-        v[i]=gcd(a,v[i]);
+    ll sum=v[0];
+    for(ll i=1;i<n;i++){
+        sum=gcd(sum,v[i]);
     }
-    int sum=0;
-    cout<<accumulate(v.begin(),v.end(),sum)<<"\n";
+    cout<<sum*n<<"\n";
 }
 int main()
 {
