@@ -1,0 +1,1 @@
+{"name":"Local: ODDPAIRS","url":"d:\\Github\\Competitive-Programming\\CC\\STARTERS 53 Div 4\\ODDPAIRS.cpp","tests":[{"id":1661351904201,"input":"5\n1\n2\n3\n100\n199","output":"0\n2\n4\n5000\n19800"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Github\\Competitive-Programming\\CC\\STARTERS 53 Div 4\\ODDPAIRS.cpp","group":"local","local":true}

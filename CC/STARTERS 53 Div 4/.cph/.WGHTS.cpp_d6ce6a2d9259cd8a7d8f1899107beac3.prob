@@ -1,0 +1,1 @@
+{"name":"Local: WGHTS","url":"d:\\Github\\Competitive-Programming\\CC\\STARTERS 53 Div 4\\WGHTS.cpp","tests":[{"id":1661351800357,"input":"4\n5 2 1 6\n7 9 7 2\n20 8 10 12\n20 10 11 12","output":"NO\nYES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Github\\Competitive-Programming\\CC\\STARTERS 53 Div 4\\WGHTS.cpp","group":"local","local":true}
