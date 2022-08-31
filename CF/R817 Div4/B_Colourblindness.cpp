@@ -43,32 +43,19 @@ ll gcd (ll a, ll b) {
 void solve(){
     int n;
     cin>>n;
-    string str;
-    cin>>str;  
-    // string com="timur";
-    // int c=0;
-    // if(n!=5){
-    //     cout<<"NO"<<"\n";
-    //     return;
-    // }
-    // for(auto i:str){
-    //     if(i=='I'||i=='M'||i=='U'||i=='R'){
-    //         cout<<"NO"<<"\n";
-    //         return;
-    //     }
-    //     if(i=='t'){
-    //         cout<<"NO"<<"\n";
-    //         return;
-    //     }
-    // }
-    if(n!=5){
-        cout<<"NO"<<"\n";
-        return;
+    string s1;
+    cin>>s1;
+    string s2;
+    cin>>s2;
+    for(int i=0;i<n;i++){
+        if(s1[i]=='B'){
+            s1[i]='G';
+        }
+        if(s2[i]=='B'){
+            s2[i]='G';
+        }
     }
-    sort(str.begin(),str.end());
-    string com="Timur";
-    sort(com.begin(),com.end());
-    if(com==str){
+    if(s1==s2){
         cout<<"YES"<<"\n";
     }else{
         cout<<"NO"<<"\n";
