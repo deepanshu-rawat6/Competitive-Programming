@@ -45,21 +45,33 @@ void solve(){
     cin>>n;
     string str;
     cin>>str;
-    string com="timur";
-    int c=0;
+    // string com="timur";
+    // int c=0;
+    // if(n!=5){
+    //     cout<<"NO"<<"\n";
+    //     return;
+    // }
+    // for(auto i:str){
+    //     if(i=='I'||i=='M'||i=='U'||i=='R'){
+    //         cout<<"NO"<<"\n";
+    //         return;
+    //     }
+    //     if(i=='t'){
+    //         cout<<"NO"<<"\n";
+    //         return;
+    //     }
+    // }
     if(n!=5){
         cout<<"NO"<<"\n";
         return;
     }
-    for(auto i:str){
-        if(i=='I'||i=='M'||i=='U'||i=='R'){
-            cout<<"NO"<<"\n";
-            return;
-        }
-        if(i=='t'){
-            cout<<"NO"<<"\n";
-            return;
-        }
+    sort(str.begin(),str.end());
+    string com="Timur";
+    sort(com.begin(),com.end());
+    if(com==str){
+        cout<<"YES"<<"\n";
+    }else{
+        cout<<"NO"<<"\n";
     }
 }
 int main()
